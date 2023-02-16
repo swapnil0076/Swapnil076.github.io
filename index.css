@@ -756,7 +756,7 @@
   margin-top: 2.5%;
 }
 
-.project-card{
+.project-card1{
   /* border: 1px solid red; */
   width: 80%;
  margin: auto;
@@ -871,7 +871,7 @@
   margin-top: 2.5%;
 }
 
-.project-card{
+.project-card1{
   /* border: 1px solid red; */
   width: 80%;
  margin: auto;
@@ -948,7 +948,7 @@
   margin-top: 2.5%;
 }
 
-.project-card{
+.project-card1{
   /* border: 1px solid red; */
   width: 80%;
  margin: auto;
@@ -992,7 +992,7 @@
   }
 
   /* Project Section  */
-  .project-card{
+  .project-card1{
     position: initial;
   }
   
@@ -1118,7 +1118,7 @@
   }
 /* Project */
 
-.project-card{
+.project-card1{
   position: initial;
 }
 
