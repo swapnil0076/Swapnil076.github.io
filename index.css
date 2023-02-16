@@ -158,7 +158,7 @@
     justify-content: center;
 }
 
-.home-img{
+.home-img1{
     width: 180px;
     height: 180px;
     border-radius: 50%;
@@ -167,7 +167,7 @@
     margin-bottom: 2rem;
 }
 
-.home-img{
+.home-img1{
     width: 180px;
     height: 180px;
     object-fit: cover;
@@ -1083,12 +1083,12 @@
     padding-top: 5rem;
   }
 
-  .home-img{
+  .home-img1{
     width: 140px;
     height: 140px;
   }
 
-  .home-img img{
+  .home-img1 img{
     width: 140px;
     height: 140px;
   }
