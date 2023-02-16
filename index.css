@@ -140,7 +140,7 @@
 
 /* Home */
 
-.home{
+.home1{
     min-height: 600px;
     display: flex;
     align-items: center;
@@ -784,7 +784,7 @@
     font-size: 1.1rem;
   }
 
-  .home{
+  .home1{
     min-height: 500px;
     padding-top: 6rem;
   }
@@ -1078,7 +1078,7 @@
 
 @media (max-width:450px){
   
-  .home{
+  .home1{
     min-height: 485px;
     padding-top: 5rem;
   }
