@@ -376,7 +376,7 @@
     font-size: var(--normal-font);
     color: var(--text-color);
   }
-  
+
   .icon {
     width: 3rem;
   }
@@ -869,6 +869,10 @@
 }
 
 /* Project Section  */
+
+.project-description{
+  
+}
 
 .tech-img{
   height: 25px;
