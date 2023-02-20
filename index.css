@@ -376,10 +376,14 @@
     font-size: var(--normal-font);
     color: var(--text-color);
   }
+  
   .icon {
     width: 3rem;
   }
 
+  .skills-card-img{
+    width: 3rem;
+  }
 
   .skills-icons{
     background-color: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5); ;
