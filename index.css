@@ -388,6 +388,15 @@
     margin: 5px;
   }
 
+  .skills-card{
+
+    background-color: -webkit-linear-gradient(to right, #292E49, #536976, #BBD2C5); ;
+    border-radius: 11px;
+    padding: 2px;
+    margin: 5px;
+
+  }
+
   /* github calender */
 
   .github-calender{
